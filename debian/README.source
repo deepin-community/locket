@@ -1,0 +1,4 @@
+The package uses the GitHub repository for the upstream source as the
+version on PyPi lacks the tests.
+
+ -- Diane Trout <diane@ghic.org>, Tue, 13 Dec 2016 20:58:43 -0800
